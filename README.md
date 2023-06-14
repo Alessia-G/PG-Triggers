@@ -61,7 +61,7 @@ To programmatically interact with Neo4j, you can use any Neo4j driver compatible
 
 ## Dataset
 
-The repository includes a dataset representing the schema of the COVID-19 spreading model presented in the "PG-Trigger" paper. You can find the dataset in the [dataset](./dataset) directory. It provides a starting point for experimenting with the proposed approach and understanding the data structure used in the paper.
+The repository includes a dataset representing the schema of the COVID-19 spreading model presented in the "PG-Trigger" paper. 
 
 ## License
 
